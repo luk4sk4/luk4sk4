@@ -8,11 +8,11 @@ I am a **Robotics Engineering** student at **Universidad Carlos III de Madrid (U
 
 My current focus is split between human-computer interaction, bio-inspired robotics, and scalable platforms:
 
-* ** 3D Printed AR Glasses**
+* **3D Printed AR Glasses**
     Developing an affordable, open-source augmented reality wearable. Focusing on ergonomic frame design and integrating lightweight optical displays.
-* ** Robotic Hand**
+* **Robotic Hand**
     Designing a multi-DOF (Degree of Freedom) robotic hand. My work involves mechanical design and AI-powered movement.
-* ** LUAX**
+* **LUAX**
     Building and maintaining **LUAX**, a comprehensive legal platform. Here, I bridge the gap between complex legal workflows and seamless digital experiences.
 
 ---
