@@ -26,10 +26,3 @@ Based on my hands-on projects and my engineering curriculum at UC3M, my current 
 | **Programming Languages** | Python, C, C++, JavaScript, MATLAB, RAPID |
 | **Software & Web Dev** | React, React Native, Node.js, Git, Docker |
 | **Hardware & CAD** | SolidEdge, Fusion 360, Arduino |
-
----
-
-###  Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luk4sk4&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luk4sk4&layout=compact&theme=radical)
